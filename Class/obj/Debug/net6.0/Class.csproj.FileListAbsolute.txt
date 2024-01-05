@@ -1,0 +1,11 @@
+F:\Mphasis practice\phase 4\Class\Class\bin\Debug\net6.0\Class.deps.json
+F:\Mphasis practice\phase 4\Class\Class\bin\Debug\net6.0\Class.dll
+F:\Mphasis practice\phase 4\Class\Class\bin\Debug\net6.0\Class.pdb
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\Class.dll
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\refint\Class.dll
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\Class.pdb
+F:\Mphasis practice\phase 4\Class\Class\obj\Debug\net6.0\ref\Class.dll
